@@ -36,6 +36,8 @@ namespace StratoplanBingo.Dictionaries
             BingoValues.Add(27, "Отключайте\r\nNQM нахуй");
             BingoValues.Add(28, "Бедные казахи");
             BingoValues.Add(29, "Не лезьте\r\nв бизнес");
+            
+            //Накидывай сюда по образцу, \r\n для разделения строк
         }
     }
 }
