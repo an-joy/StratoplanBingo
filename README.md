@@ -1,1 +1,1 @@
-# Bingo
+# Stratoplan Bingo
